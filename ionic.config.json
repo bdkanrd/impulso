@@ -1,0 +1,7 @@
+{
+  "name": "impulso",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
